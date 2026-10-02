@@ -1,0 +1,12 @@
+{
+  "short_name": "WoV devlog",
+  "name": "Wrath of Veles — devlog",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "background_color": "#0d0f0c",
+  "theme_color": "#0d0f0c"
+}
